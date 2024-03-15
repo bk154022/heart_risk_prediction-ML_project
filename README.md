@@ -1,0 +1,1 @@
+## this project will delivered a solution to idetifiy heart attacks risk through Ai software
